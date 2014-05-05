@@ -7,7 +7,7 @@
 <table>
 	<tr>
 		<td></td>
-		<td><center><img alt="logorealmadrid" src="logoreal.gif" height="20%" width="20%"></center></td>
+		<td><center><img alt="logorealmadrid" src="logoreal.gif" height="25%" width="25%"></center></td>
 		<td></td>
 	</tr>
 	<tr>
