@@ -67,6 +67,7 @@ echo $html;
 		<td></td>
 	</tr>
 </table>
+<img src="madrid.JPG" width="50%" height="50%">
 </center>
 </body>
 </html>
