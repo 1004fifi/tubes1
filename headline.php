@@ -36,7 +36,7 @@ echo $html;
 	<tr>
 		<td><center><img alt="logorealmadrid" src="logoreal.gif" height="20%" width="20%"></center></td>
 		<td>
-			<h1>Dibuat oleh :</h1>
+			<h1>Arranged by: </h1>
 			<table>
 				<tr>
 					<td>
